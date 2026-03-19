@@ -50,9 +50,11 @@ I’m a software engineer at Microsoft working on AI-powered product and platfor
 - AI coding workflows and developer productivity
 - Observability, tracing, and system reliability for AI products
 
-## Philosophy
+## Philosophy | 座右铭
 
-> Good AI products are not just smart. They need strong systems behind them - clear execution models, reliable infrastructure, and engineering discipline that holds up in production.
+> 笨鸟先飞，量变产生质变。
+>
+> The early bird gets ahead. Consistent effort compounds, and quantitative change eventually leads to qualitative change.
 
 ## Connect
 
