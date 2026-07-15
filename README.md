@@ -28,13 +28,15 @@ I’m a software engineer at Microsoft working on AI-powered product and platfor
 - **Office Plus** - supported backend development, service operations, development workflows, and production-oriented engineering practices
 - **PCM** - gained hands-on experience in configuration systems, deployment pipelines, release processes, environment management, and large-scale service debugging
 
-## Recent Projects
+## Projects
 
-> I’m gradually building and sharing more of my work here. This section will grow over time as I publish projects and experiments.
-
-- **Coming soon** - AI engineering experiments
-- **Coming soon** - agent system prototypes
-- **Coming soon** - backend and platform tools
+- 🛡️ **[quality-gate](https://github.com/tomqiaozc/quality-gate)** - Commit-level quality harness for Claude Code — proportional checks with multi-perspective LLM review, published on npm `npm i -g @tomqiaozc/quality-gate`
+- 💬 **[wechat-insight](https://github.com/tomqiaozc/wechat-insight)** - Semantic search and AI summarization over WeChat group chats — ChromaDB vector index + streaming LLM answers with source citations (FastAPI · React · TypeScript)
+- 🏗️ **[zhuji 筑迹](https://github.com/tomqiaozc/zhuji)** - Full-stack home-renovation manager — cloud-authoritative + local-cache architecture (React · FastAPI · PostgreSQL · Azure Blob · PWA)
+- 📊 **[feedscope](https://github.com/tomqiaozc/feedscope)** - Multi-tenant social analytics platform — SSE-streamed fetch/translation, webhook API with key rotation (Next.js 16 · FastAPI · SQLAlchemy async)
+- 🧭 **[travel-copilot](https://github.com/tomqiaozc/travel-copilot)** - AI travel planner — GPT-4o Vision extracts places from screenshots, auto-geocodes, and builds drag-and-drop itineraries with interactive maps
+- 🔓 **[wx-dump-mac](https://github.com/tomqiaozc/wx-dump-mac)** - macOS WeChat data export tool — in-memory key extraction, SQLCipher decryption, and multi-format export (Python)
+- 🎮 **[pixel-pokemon-game](https://github.com/tomqiaozc/pixel-pokemon-game)** - Retro pixel-art RPG in the browser — battles, gyms, breeding, and trading across 9 sprints of content (HTML5 Canvas · FastAPI)
 
 ## Areas of Interest
 
@@ -43,11 +45,11 @@ I’m a software engineer at Microsoft working on AI-powered product and platfor
 - **Backend Infrastructure** - designing and supporting the systems that make AI applications stable and scalable
 - **Engineering Excellence** - building the habits and foundations that help systems survive production reality
 
-## Currently Learning
+## Currently Exploring
 
-- Agent engineering and tool-use workflows
-- LLM application architecture
-- AI coding workflows and developer productivity
+- Agent engineering and tool-use orchestration
+- LLM application architecture and RAG systems
+- AI coding workflows and developer productivity tooling
 - Observability, tracing, and system reliability for AI products
 
 ## Philosophy | 座右铭
