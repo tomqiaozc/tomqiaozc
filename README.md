@@ -63,5 +63,6 @@ I’m a software engineer at Microsoft working on AI-powered product and platfor
 ## Connect
 
 - GitHub: [@tomqiaozc](https://github.com/tomqiaozc)
+- Email: [18017822420@163.com](mailto:18017822420@163.com)
 - LinkedIn: _coming soon_
 - Blog / Notes: _coming soon_
