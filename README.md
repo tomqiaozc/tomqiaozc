@@ -30,6 +30,7 @@ I’m a software engineer at Microsoft working on AI-powered product and platfor
 
 ## Projects
 
+- 🕹️ **[agent-arcade](https://github.com/tomqiaozc/agent-arcade)** - Real-time pixel-office visualization of local AI CLI agents — process scan → pure state derivation → WebSocket diff stream → integer-scaled canvas renderer (Node · React · Vite · TypeScript)
 - 🛡️ **[quality-gate](https://github.com/tomqiaozc/quality-gate)** - Commit-level quality harness for Claude Code — proportional checks with multi-perspective LLM review, published on npm `npm i -g @tomqiaozc/quality-gate`
 - 💬 **[wechat-insight](https://github.com/tomqiaozc/wechat-insight)** - Semantic search and AI summarization over WeChat group chats — ChromaDB vector index + streaming LLM answers with source citations (FastAPI · React · TypeScript)
 - 🏗️ **[zhuji 筑迹](https://github.com/tomqiaozc/zhuji)** - Full-stack home-renovation manager — cloud-authoritative + local-cache architecture (React · FastAPI · PostgreSQL · Azure Blob · PWA)
