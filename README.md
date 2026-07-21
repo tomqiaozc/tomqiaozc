@@ -48,26 +48,6 @@ I’m a software engineer at Microsoft working on AI-powered product and platfor
 - AI coding workflows and developer productivity tooling
 - Observability, tracing, and system reliability for AI products
 
-## Skills & MCP Servers
-
-Custom [Claude Code](https://claude.com/claude-code) skills and MCP integrations I build and run in my daily agent workflow.
-
-**Skills**
-
-- 🏢 **opc** — *One Person Company*: a digraph-based task pipeline that builds, reviews, and brainstorms with independent specialist agents, where every path ends in multi-role evaluation
-- 🧠 **memex** — Zettelkasten-style agentic memory: agents recall prior insights before a task and write retro cards after, so knowledge compounds across sessions
-- 🛡️ **quality-gate** — commit-level quality harness with proportional review depth and multi-perspective LLM review
-- 🔎 **smart-search / agent-reach** — intelligent search + deep-research routers over an OpenCLI command layer (web, social, technical, and Chinese-language sources)
-- 🌐 **opencli** — browser-automation framework for AI agents: adapter authoring, autofix, and ad-hoc page driving for structured web extraction
-- 📐 **reference-project-blueprint** — turn an existing repo into a greenfield PRD + architecture + Azure-first implementation roadmap
-- 🎨 **web-design-guidelines** — review UI code for accessibility and Web Interface Guidelines compliance
-- 🛠️ **skill-creator** — scaffold, refine, and eval new skills, including trigger-description optimization
-
-**MCP Servers**
-
-- 📋 **linear** — issue tracking and project management from inside the agent loop
-- 💬 **hermes / slack** — messaging bridges across Slack, Telegram, Discord, and more for agent notifications and human-in-the-loop
-
 ## Philosophy | 座右铭
 
 > 笨鸟先飞，量变产生质变。
