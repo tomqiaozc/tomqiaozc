@@ -35,8 +35,9 @@ I’m a software engineer at Microsoft working on AI-powered product and platfor
 
 ## Skills
 
-Claude Code skills I've built and published.
+Claude Code / Hermes skills I've built and published.
 
+- 🧭 **[travel-planner-skill](https://github.com/tomqiaozc/travel-planner-skill)** - Hermes `travel-planner` skill for end-to-end trip planning — Xiaohongshu research, itinerary synthesis, Google Maps / AMap geocoding, and interactive HTML itinerary generation
 - 🛡️ **[quality-gate](https://github.com/tomqiaozc/quality-gate)** - Commit-level quality harness for Claude Code — proportional checks with multi-perspective LLM review, published on npm `npm i -g @tomqiaozc/quality-gate`
 
 ## Areas of Interest
