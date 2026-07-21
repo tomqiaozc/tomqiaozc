@@ -24,9 +24,9 @@ I’m a software engineer at Microsoft working on AI-powered product and platfor
 
 ## Recent Work
 
-- **Societas** - worked across agent workflows, tool execution patterns, sandboxed environments, telemetry, distributed coordination, and backend architecture for AI-driven product experiences
-- **Office Plus** - supported backend development, service operations, development workflows, and production-oriented engineering practices
-- **PCM** - gained hands-on experience in configuration systems, deployment pipelines, release processes, environment management, and large-scale service debugging
+- **Microsoft Copilot / Epichan** *(2026.01–present)* - AI harness and production engineering as Copilot Studio evolves toward an agent-first system: abstracted business needs into routed bug-fix harness workflows, drove the GitHub → Azure DevOps platform migration, and worked across immutable artifacts, staged rollouts, quality gates, feature flags, and rollback in a large-scale production release pipeline
+- **Office Agent / Societas** *(2025.07–2026.01)* - general-purpose agent platform for M365 consumer users: led agent runtime, productionization, and compliance work — native function-calling migration with dual-mode rollout and sub-agent chaining, user-level encryption with layered keys and key rotation, resumable long-task messaging with the database as source of truth, and a standalone agent proxy service with OBO auth and task persistence
+- **Office Plus** *(2024.12–2025.07)* - commercialization backend on .NET/ABP + Azure: owned an end-to-end third-party service productionization across orders, payments, entitlements, and messaging, and led identity/session governance — account soft-delete, refresh-token and device-session redesign to bound record growth
 
 ## Projects
 
@@ -64,5 +64,5 @@ I’m a software engineer at Microsoft working on AI-powered product and platfor
 
 - GitHub: [@tomqiaozc](https://github.com/tomqiaozc)
 - Email: [18017822420@163.com](mailto:18017822420@163.com)
-- LinkedIn: _coming soon_
+- LinkedIn: [zhuocheng-qiao](https://www.linkedin.com/in/zhuocheng-qiao-a00a151b3/)
 - Blog / Notes: _coming soon_
