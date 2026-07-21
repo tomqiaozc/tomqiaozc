@@ -29,10 +29,15 @@ I’m a software engineer at Microsoft working on AI-powered product and platfor
 - 🏗️ **[zhuji 筑迹](https://github.com/tomqiaozc/zhuji)** - Full-stack home-renovation manager — cloud-authoritative + local-cache architecture (React · FastAPI · PostgreSQL · Azure Blob · PWA)
 - 📊 **[feedscope](https://github.com/tomqiaozc/feedscope)** - Multi-tenant social analytics platform — SSE-streamed fetch/translation, webhook API with key rotation (Next.js 16 · FastAPI · SQLAlchemy async)
 - 🔓 **[wx-dump-mac](https://github.com/tomqiaozc/wx-dump-mac)** - macOS WeChat data export tool — in-memory key extraction, SQLCipher decryption, and multi-format export (Python)
-- 🛡️ **[quality-gate](https://github.com/tomqiaozc/quality-gate)** - Commit-level quality harness for Claude Code — proportional checks with multi-perspective LLM review, published on npm `npm i -g @tomqiaozc/quality-gate`
 - 💬 **[wechat-insight](https://github.com/tomqiaozc/wechat-insight)** - Semantic search and AI summarization over WeChat group chats — ChromaDB vector index + streaming LLM answers with source citations (FastAPI · React · TypeScript)
 - 🧭 **[travel-copilot](https://github.com/tomqiaozc/travel-copilot)** - AI travel planner — GPT-4o Vision extracts places from screenshots, auto-geocodes, and builds drag-and-drop itineraries with interactive maps
 - 🎮 **[pixel-pokemon-game](https://github.com/tomqiaozc/pixel-pokemon-game)** - Retro pixel-art RPG in the browser — battles, gyms, breeding, and trading across 9 sprints of content (HTML5 Canvas · FastAPI)
+
+## Skills
+
+Claude Code skills I've built and published.
+
+- 🛡️ **[quality-gate](https://github.com/tomqiaozc/quality-gate)** - Commit-level quality harness for Claude Code — proportional checks with multi-perspective LLM review, published on npm `npm i -g @tomqiaozc/quality-gate`
 
 ## Areas of Interest
 
