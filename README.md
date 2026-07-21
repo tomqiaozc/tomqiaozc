@@ -22,22 +22,16 @@ I’m a software engineer at Microsoft working on AI-powered product and platfor
 - **Strengthening backend foundations** - building around APIs, storage, caching, service coordination, and stateful infrastructure
 - **Improving engineering quality** - investing in telemetry, observability, debugging, throttling, release workflows, and operational readiness
 
-## Recent Work
-
-- **Microsoft Copilot / Epichan** *(2026.01–present)* - AI harness and production engineering as Copilot Studio evolves toward an agent-first system: abstracted business needs into routed bug-fix harness workflows, drove the GitHub → Azure DevOps platform migration, and worked across immutable artifacts, staged rollouts, quality gates, feature flags, and rollback in a large-scale production release pipeline
-- **Office Agent / Societas** *(2025.07–2026.01)* - general-purpose agent platform for M365 consumer users: led agent runtime, productionization, and compliance work — native function-calling migration with dual-mode rollout and sub-agent chaining, user-level encryption with layered keys and key rotation, resumable long-task messaging with the database as source of truth, and a standalone agent proxy service with OBO auth and task persistence
-- **Office Plus** *(2024.12–2025.07)* - commercialization backend on .NET/ABP + Azure: owned an end-to-end third-party service productionization across orders, payments, entitlements, and messaging, and led identity/session governance — account soft-delete, refresh-token and device-session redesign to bound record growth
-
 ## Projects
 
 - 🕹️ **[agent-arcade](https://github.com/tomqiaozc/agent-arcade)** - Real-time pixel-office visualization of local AI CLI agents — process scan → pure state derivation → WebSocket diff stream → integer-scaled canvas renderer (Node · React · Vite · TypeScript)
-- 🛡️ **[quality-gate](https://github.com/tomqiaozc/quality-gate)** - Commit-level quality harness for Claude Code — proportional checks with multi-perspective LLM review, published on npm `npm i -g @tomqiaozc/quality-gate`
 - ⏪ **[Rewind](https://github.com/tomqiaozc/Rewind)** - AI coding session intelligence platform — ingest, full-text search, and replay conversations from Claude Code / OpenCode / Gemini CLI, with an incremental CLI sync (FastAPI · PostgreSQL · React · Azure)
-- 💬 **[wechat-insight](https://github.com/tomqiaozc/wechat-insight)** - Semantic search and AI summarization over WeChat group chats — ChromaDB vector index + streaming LLM answers with source citations (FastAPI · React · TypeScript)
 - 🏗️ **[zhuji 筑迹](https://github.com/tomqiaozc/zhuji)** - Full-stack home-renovation manager — cloud-authoritative + local-cache architecture (React · FastAPI · PostgreSQL · Azure Blob · PWA)
 - 📊 **[feedscope](https://github.com/tomqiaozc/feedscope)** - Multi-tenant social analytics platform — SSE-streamed fetch/translation, webhook API with key rotation (Next.js 16 · FastAPI · SQLAlchemy async)
-- 🧭 **[travel-copilot](https://github.com/tomqiaozc/travel-copilot)** - AI travel planner — GPT-4o Vision extracts places from screenshots, auto-geocodes, and builds drag-and-drop itineraries with interactive maps
 - 🔓 **[wx-dump-mac](https://github.com/tomqiaozc/wx-dump-mac)** - macOS WeChat data export tool — in-memory key extraction, SQLCipher decryption, and multi-format export (Python)
+- 🛡️ **[quality-gate](https://github.com/tomqiaozc/quality-gate)** - Commit-level quality harness for Claude Code — proportional checks with multi-perspective LLM review, published on npm `npm i -g @tomqiaozc/quality-gate`
+- 💬 **[wechat-insight](https://github.com/tomqiaozc/wechat-insight)** - Semantic search and AI summarization over WeChat group chats — ChromaDB vector index + streaming LLM answers with source citations (FastAPI · React · TypeScript)
+- 🧭 **[travel-copilot](https://github.com/tomqiaozc/travel-copilot)** - AI travel planner — GPT-4o Vision extracts places from screenshots, auto-geocodes, and builds drag-and-drop itineraries with interactive maps
 - 🎮 **[pixel-pokemon-game](https://github.com/tomqiaozc/pixel-pokemon-game)** - Retro pixel-art RPG in the browser — battles, gyms, breeding, and trading across 9 sprints of content (HTML5 Canvas · FastAPI)
 
 ## Areas of Interest
