@@ -65,4 +65,4 @@ Claude Code / Hermes skills I've built and published.
 - GitHub: [@tomqiaozc](https://github.com/tomqiaozc)
 - Email: [18017822420@163.com](mailto:18017822420@163.com)
 - LinkedIn: [zhuocheng-qiao](https://www.linkedin.com/in/zhuocheng-qiao-a00a151b3/)
-- Blog / Notes: _coming soon_
+- Portfolio: [tomqiaozc.github.io](https://tomqiaozc.github.io/)
