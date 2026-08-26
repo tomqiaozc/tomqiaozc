@@ -24,6 +24,7 @@ I’m a software engineer at Microsoft working on AI-powered product and platfor
 
 ## Projects
 
+- 🚦 **[GraphRail](https://github.com/tomqiaozc/graphrail)** - Zero-dependency graph-based agent harness — declarative flows, evidence-driven gates, exact-run provenance, and customizable prompt templates (Node.js · ESM · Claude Code)
 - 🕹️ **[agent-arcade](https://github.com/tomqiaozc/agent-arcade)** - Real-time pixel-office visualization of local AI CLI agents — process scan → pure state derivation → WebSocket diff stream → integer-scaled canvas renderer (Node · React · Vite · TypeScript)
 - ⏪ **[Rewind](https://github.com/tomqiaozc/Rewind)** - AI coding session intelligence platform — ingest, full-text search, and replay conversations from Claude Code / OpenCode / Gemini CLI, with an incremental CLI sync (FastAPI · PostgreSQL · React · Azure)
 - 🏗️ **[zhuji 筑迹](https://github.com/tomqiaozc/zhuji)** - Full-stack home-renovation manager — cloud-authoritative + local-cache architecture (React · FastAPI · PostgreSQL · Azure Blob · PWA)
